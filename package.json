@@ -1,0 +1,19 @@
+{
+  "name": "twitch-plays-dota2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tmi.js": "^1.8.3"
+  },
+  "dependencies": {
+    "node-key-sender": "^1.0.11",
+    "robotjs": "^0.6.0"
+  }
+}
